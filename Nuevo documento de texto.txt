@@ -1,0 +1,166 @@
+		name="[COLOR lime]Advancedsettings para conexiones lentas (-20Mb)[/COLOR]"
+		section="no"
+		url="http://"
+		icon="http://netai.eu/notbuffer3-data/settings.png"
+		fanart="http://netai.eu/notbuffer3-data/fanart.jpg"
+		description="."
+
+name="	-	Optimizado para 1Gb de RAM"
+section="no"
+url="http://netai.eu/notbuffer3-data/Slow1Gb-advancedsettings.xml"
+icon="http://netai.eu/notbuffer3-data/settings.png"
+fanart="http://netai.eu/notbuffer3-data/fanart.jpg"
+description="Configurar para ram hasta 1GB."
+
+name="	-	Optimizado para  2Gb de RAM"
+section="no"
+url="http://netai.eu/notbuffer3-data/Slow2Gb-advancedsettings.xml"
+icon="http://netai.eu/notbuffer3-data/settings.png"
+fanart="http://netai.eu/notbuffer3-data/fanart.jpg"
+description="Cofigurar para ram hasta 2GB."
+
+name="	-	Optimizado para 3Gb de RAM"
+section="no"
+url="http://netai.eu/notbuffer3-data/Slow3Gb-advancedsettings.xml"
+icon="http://netai.eu/notbuffer3-data/settings.png"
+fanart="http://netai.eu/notbuffer3-data/fanart.jpg"
+description="Cofigurar para RAM hasta 3GB."
+
+name="	-	Optimizado para  +3Gb de RAM"
+section="no"
+url="http://netai.eu/notbuffer3-data/Slow4Gb-advancedsettings.xml"
+icon="http://netai.eu/notbuffer3-data/settings.png"
+fanart="http://netai.eu/notbuffer3-data/fanart.jpg"
+description="Configurar para RAM superior a 3GB."
+
+
+
+		name="[COLOR lime]Advancedsettings para conexiones rapidas (+20Mb)[/COLOR]"
+		section="no"
+		url="http://"
+		icon="http://netai.eu/notbuffer3-data/settings.png"
+		fanart="https://"
+		description="."
+
+name="	-	Optimizado para 1Gb de RAM"
+section="no"
+url="http://netai.eu/notbuffer3-data/Fast1Gb-advancedsettings.xml"
+icon="http://netai.eu/notbuffer3-data/settings.png"
+fanart="http://netai.eu/notbuffer3-data/fanart.jpg"
+description="Mas de 20MB bytes de conexion y hasta 1GB de RAM."
+
+name="	-	Optimizado para 2Gb de RAM"
+section="no"
+url="http://netai.eu/notbuffer3-data/Fast2Gb-advancedsettings.xml"
+icon="http://netai.eu/notbuffer3-data/settings.png"
+fanart="http://netai.eu/notbuffer3-data/fanart.jpg"
+description="Mas de 20MB bytes de conexion y hasta 2GB de RAM."
+
+name="	-	Optimizado para 3Gb de RAM"
+section="no"
+url="http://netai.eu/notbuffer3-data/Fast3Gb-advancedsettings.xml"
+icon="http://netai.eu/notbuffer3-data/settings.png"
+fanart="http://netai.eu/notbuffer3-data/fanart.jpg"
+description="Mas de 20MB bytes de conexion y hasta 3GB de RAM."
+
+name="	-	Optimizado para +3Gb de RAM"
+section="no"
+url="http://netai.eu/notbuffer3-data/Fast4Gb-advancedsettings.xml"
+icon="http://netai.eu/notbuffer3-data/settings.png"
+fanart="http://netai.eu/notbuffer3-data/fanart.jpg"
+description="Mas de 20MB bytes de conexion y superior a 3GB de RAM."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		name="[COLOR lime]#############Configuracion Alternativa Kodi 18 [Recomendada][/COLOR]"
+		section="no"
+		url="http://"
+		icon="http://netai.eu/notbuffer3-data/settings.png"
+		fanart="http://netai.eu/notbuffer3-data/fanart.jpg"
+		description="."
+
+
+		name="[COLOR lime]Advancedsettings para conexiones lentas (-20Mb)[/COLOR]"
+		section="no"
+		url="http://"
+		icon="http://netai.eu/notbuffer3-data/settings.png"
+		fanart="http://netai.eu/notbuffer3-data/fanart.jpg"
+		description="."
+
+name="	-	Optimizado para 1Gb de RAM"
+section="no"
+url="http://netai.eu/notbuffer3-data/avanced-settings/-20 V16 1 GB  advancedsettings.xml"
+icon="http://netai.eu/notbuffer3-data/settings.png"
+fanart="http://netai.eu/notbuffer3-data/fanart.jpg"
+description="Configurar para ram hasta 1GB."
+
+name="	-	Optimizado para  2Gb de RAM"
+section="no"
+url="http://netai.eu/notbuffer3-data/Slow2Gb-advancedsettings.xml"
+icon="http://netai.eu/notbuffer3-data/settings.png"
+fanart="http://netai.eu/notbuffer3-data/fanart.jpg"
+description="Cofigurar para ram hasta 2GB."
+
+name="	-	Optimizado para 3Gb de RAM"
+section="no"
+url="http://netai.eu/notbuffer3-data/Slow3Gb-advancedsettings.xml"
+icon="http://netai.eu/notbuffer3-data/settings.png"
+fanart="http://netai.eu/notbuffer3-data/fanart.jpg"
+description="Cofigurar para RAM hasta 3GB."
+
+name="	-	Optimizado para  +3Gb de RAM"
+section="no"
+url="http://netai.eu/notbuffer3-data/Slow4Gb-advancedsettings.xml"
+icon="http://netai.eu/notbuffer3-data/settings.png"
+fanart="http://netai.eu/notbuffer3-data/fanart.jpg"
+description="Configurar para RAM superior a 3GB."
+
+
+
+		name="[COLOR lime]Advancedsettings para conexiones rapidas (+20Mb)[/COLOR]"
+		section="no"
+		url="http://"
+		icon="http://netai.eu/notbuffer3-data/settings.png"
+		fanart="https://"
+		description="."
+
+name="	-	Optimizado para 1Gb de RAM"
+section="no"
+url="http://netai.eu/notbuffer3-data/Fast1Gb-advancedsettings.xml"
+icon="http://netai.eu/notbuffer3-data/settings.png"
+fanart="http://netai.eu/notbuffer3-data/fanart.jpg"
+description="Mas de 20MB bytes de conexion y hasta 1GB de RAM."
+
+name="	-	Optimizado para 2Gb de RAM"
+section="no"
+url="http://netai.eu/notbuffer3-data/Fast2Gb-advancedsettings.xml"
+icon="http://netai.eu/notbuffer3-data/settings.png"
+fanart="http://netai.eu/notbuffer3-data/fanart.jpg"
+description="Mas de 20MB bytes de conexion y hasta 2GB de RAM."
+
+name="	-	Optimizado para 3Gb de RAM"
+section="no"
+url="http://netai.eu/notbuffer3-data/Fast3Gb-advancedsettings.xml"
+icon="http://netai.eu/notbuffer3-data/settings.png"
+fanart="http://netai.eu/notbuffer3-data/fanart.jpg"
+description="Mas de 20MB bytes de conexion y hasta 3GB de RAM."
+
+name="	-	Optimizado para +3Gb de RAM"
+section="no"
+url="http://netai.eu/notbuffer3-data/Fast4Gb-advancedsettings.xml"
+icon="http://netai.eu/notbuffer3-data/settings.png"
+fanart="http://netai.eu/notbuffer3-data/fanart.jpg"
+description="Mas de 20MB bytes de conexion y superior a 3GB de RAM."

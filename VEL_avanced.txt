@@ -1,0 +1,164 @@
+name="[COLOR lime]OPCION 1[/COLOR]"
+		section="no"
+		url="http://"
+		icon="settings.png"
+		fanart="fanart.jpg"
+		description="."
+
+name="[COLOR lime]Advancedsettings para conexiones lentas (-20Mb)[/COLOR]"
+		section="no"
+		url="http://"
+		icon="settings.png"
+		fanart="fanart.jpg"
+		description="."
+
+name="	-	Optimizado para 1Gb de RAM"
+section="no"
+url="Slow1Gb-advancedsettings.xml"
+icon="settings.png"
+fanart="fanart.jpg"
+description="Configurar para ram hasta 1GB."
+
+name="	-	Optimizado para  2Gb de RAM"
+section="no"
+url="Slow2Gb-advancedsettings.xml"
+icon="settings.png"
+fanart="fanart.jpg"
+description="Cofigurar para ram hasta 2GB."
+
+name="	-	Optimizado para 3Gb de RAM"
+section="no"
+url="Slow3Gb-advancedsettings.xml"
+icon="settings.png"
+fanart="fanart.jpg"
+description="Cofigurar para RAM hasta 3GB."
+
+name="	-	Optimizado para  +3Gb de RAM"
+section="no"
+url="Slow4Gb-advancedsettings.xml"
+icon="settings.png"
+fanart="fanart.jpg"
+description="Configurar para RAM superior a 3GB."
+
+
+
+		name="[COLOR lime]Advancedsettings para conexiones rapidas (+20Mb)[/COLOR]"
+		section="no"
+		url="http://"
+		icon="settings.png"
+		fanart="https://"
+		description="."
+
+name="	-	Optimizado para 1Gb de RAM"
+section="no"
+url="Fast1Gb-advancedsettings.xml"
+icon="settings.png"
+fanart="fanart.jpg"
+description="Mas de 20MB bytes de conexion y hasta 1GB de RAM."
+
+name="	-	Optimizado para 2Gb de RAM"
+section="no"
+url="Fast2Gb-advancedsettings.xml"
+icon="settings.png"
+fanart="fanart.jpg"
+description="Mas de 20MB bytes de conexion y hasta 2GB de RAM."
+
+name="	-	Optimizado para 3Gb de RAM"
+section="no"
+url="Fast3Gb-advancedsettings.xml"
+icon="settings.png"
+fanart="fanart.jpg"
+description="Mas de 20MB bytes de conexion y hasta 3GB de RAM."
+
+name="	-	Optimizado para +3Gb de RAM"
+section="no"
+url="Fast4Gb-advancedsettings.xml"
+icon="settings.png"
+fanart="fanart.jpg"
+description="Mas de 20MB bytes de conexion y superior a 3GB de RAM."		
+
+
+
+
+
+name="[COLOR lime]OPCION 2[/COLOR]"
+		section="no"
+		url="http://"
+		icon="settings.png"
+		fanart="fanart.jpg"
+		description="."
+
+
+
+
+name="[COLOR lime]Advancedsettings para conexiones lentas (-20Mb)[/COLOR]"
+		section="no"
+		url="http://"
+		icon="settings.png"
+		fanart="fanart.jpg"
+		description="."
+
+name="	-	Optimizado para 1Gb de RAM"
+section="no"
+url="Slow1Gb-advancedsettings.xml"
+icon="settings.png"
+fanart="fanart.jpg"
+description="Configurar para ram hasta 1GB."
+
+name="	-	Optimizado para  2Gb de RAM"
+section="no"
+url="Slow2Gb-advancedsettings.xml"
+icon="settings.png"
+fanart="fanart.jpg"
+description="Cofigurar para ram hasta 2GB."
+
+name="	-	Optimizado para 3Gb de RAM"
+section="no"
+url="Slow3Gb-advancedsettings.xml"
+icon="settings.png"
+fanart="fanart.jpg"
+description="Cofigurar para RAM hasta 3GB."
+
+name="	-	Optimizado para  +3Gb de RAM"
+section="no"
+url="Slow4Gb-advancedsettings.xml"
+icon="settings.png"
+fanart="fanart.jpg"
+description="Configurar para RAM superior a 3GB."
+
+
+
+		name="[COLOR lime]Advancedsettings para conexiones rapidas (+20Mb)[/COLOR]"
+		section="no"
+		url="http://"
+		icon="settings.png"
+		fanart="https://"
+		description="."
+
+name="	-	Optimizado para 1Gb de RAM"
+section="no"
+url="Fast1Gb-advancedsettings.xml"
+icon="settings.png"
+fanart="fanart.jpg"
+description="Mas de 20MB bytes de conexion y hasta 1GB de RAM."
+
+name="	-	Optimizado para 2Gb de RAM"
+section="no"
+url="Fast2Gb-advancedsettings.xml"
+icon="settings.png"
+fanart="fanart.jpg"
+description="Mas de 20MB bytes de conexion y hasta 2GB de RAM."
+
+name="	-	Optimizado para 3Gb de RAM"
+section="no"
+url="Fast3Gb-advancedsettings.xml"
+icon="settings.png"
+fanart="fanart.jpg"
+description="Mas de 20MB bytes de conexion y hasta 3GB de RAM."
+
+name="	-	Optimizado para +3Gb de RAM"
+section="no"
+url="Fast4Gb-advancedsettings.xml"
+icon="settings.png"
+fanart="fanart.jpg"
+description="Mas de 20MB bytes de conexion y superior a 3GB de RAM."

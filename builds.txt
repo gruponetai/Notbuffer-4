@@ -1,0 +1,17 @@
+id="plugin.program.Netai"
+version="1.0"
+zip=""
+
+
+name="Build Netai Leia 18.2 server 1"
+version="1.0"
+url="http://bit.ly/2JpHBM6"
+gui=""
+kodi="18"
+theme="http://"
+icon="http://netai.eu/builds/icon.png"
+fanart="http://netai.eu/builds/fanart.jpg"
+preview="https://youtu.be/I6aMlGDZwKY"
+adult="No"
+info="http://"
+description="WIZARD NETAI PARA KODI 18[CR]"

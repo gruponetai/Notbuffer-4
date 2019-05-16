@@ -1,0 +1,13 @@
+                name="[COLOR orange] - Configurar Buffer segun velocidad de conexion[/COLOR]"
+		section="yes"
+		url="/VEL_avanced.txt"
+		icon="/settings.png"
+		fanart="/fanart.jpg"
+		description="."
+
+		name="[COLOR gold] - Config. ADVSet segun RAM [/COLOR]"
+		section="yes"
+		url="/RAM_advanced.txt"
+		icon="/settings.png"
+		fanart="/fanart.jpg"
+		description="."
