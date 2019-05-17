@@ -1,6 +1,6 @@
 id="plugin.program.Netai"
 version="1.0"
-zip=""
+zip="https://github.com/Andorth/Repo/blob/master/repositorio/plugin.program.Netai/plugin.program.Netai-1.1.zip"
 
 
 name="Build Netai Leia 18.2 server 1"
